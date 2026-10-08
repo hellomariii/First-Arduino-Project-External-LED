@@ -45,6 +45,12 @@ I didn't properly seat the jumpers, resistor, and LED into the breadboard. I tes
 ## Lesson
 CHECK PHYSICAL CONNECTIONS!!
 
+## Photos of Workflow
+<img width="3024" height="4032" alt="IMG_1296 (1)" src="https://github.com/user-attachments/assets/fb47bc61-103b-48bf-9c02-6affaceefd8d" />
+
+## Photo of LED Working
+<img width="1149" height="2136" alt="IMG_1299" src="https://github.com/user-attachments/assets/108e469d-c870-48e1-88e1-58025e64ea95" />
+
 ## Code
 
 ```cpp
